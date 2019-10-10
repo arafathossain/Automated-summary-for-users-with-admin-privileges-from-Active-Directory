@@ -1,7 +1,6 @@
 ###############################################################
 # Title: ActiveDirectory User Details Export. 
 # Author: Arafat Hossain
-# E-Mail: arafat.kuet@gmail.com
 # Version: 1.0
 # Date: 2017-Jul-05
 ###############################################################
